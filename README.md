@@ -31,7 +31,3 @@ Refonte d'un site web d'un traiteur en patisserie.
 ## 🌐 Entrez en contact avec moi
 
 - LinkedIn: [linkedin.com/in/erwan-nicol](www.linkedin.com/in/erwan-nicol-b84063112)
-
-## 📈 GitHub Stats
-
-![Erwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
